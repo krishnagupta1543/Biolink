@@ -42,7 +42,7 @@ img {
 }
 @media (max-width: 1000px) {
     img {
-      width: 7%; 
+      width: 10%; 
     }
     .main-img{
         width: 30%;
