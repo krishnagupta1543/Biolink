@@ -4,7 +4,7 @@
     color: rgb(0, 0, 0);
     display:grid;
     line-height: 2rem;
-    background-image: linear-gradient(to bottom ,rgb(23, 74, 151) , rgb(134, 187, 248));
+    background-image: linear-gradient(to bottom ,rgb(30, 196, 215) , rgb(134, 187, 248));
     background-attachment: fixed;
  }
 .container-fluid{
